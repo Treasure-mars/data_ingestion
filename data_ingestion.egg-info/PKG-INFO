@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: data-ingestion
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Treasure-mars/data_ingestion
+Author: Treasure Mars
+Author-email: nsabitre@gmail.com
+License: MIT
+Requires-Dist: sqlalchemy
+Requires-Dist: logging
+Requires-Dist: pandas

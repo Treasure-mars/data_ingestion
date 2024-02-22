@@ -1,0 +1,9 @@
+README.md
+setup.py
+data_ingestion/__init__.py
+data_ingestion/data_ingestion.py
+data_ingestion.egg-info/PKG-INFO
+data_ingestion.egg-info/SOURCES.txt
+data_ingestion.egg-info/dependency_links.txt
+data_ingestion.egg-info/requires.txt
+data_ingestion.egg-info/top_level.txt
